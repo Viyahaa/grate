@@ -30,6 +30,9 @@
   },
   "dependencies": {
     "@binance-chain/bsc-connector": "^1.0.0",
+    "@emevinefinance/sdk": "^2.4.0",
+
+    "@emevinefinance/uikit": "^0.54.1",
     "@ethersproject/experimental": "^5.0.1",
     "@pancakeswap/sdk": "^2.4.0",
     "@pancakeswap/uikit": "^0.54.3",
